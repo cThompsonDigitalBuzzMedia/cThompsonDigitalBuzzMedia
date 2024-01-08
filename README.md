@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP and diving deeper into WordPress and Elementor backend
 - 📫 How to reach me:
   - https://www.digitalbuzzmedia.com/contact/
-![Digital Buzz Media Logo](https://www.digitalbuzzmedia.com/wp-content/uploads/2023/06/DBM-Primary.svg)
+  - ![Digital Buzz Media Logo](https://www.digitalbuzzmedia.com/wp-content/uploads/2023/06/DBM-Primary.svg)
 
 <!---
 cThompsonDigitalBuzzMedia/cThompsonDigitalBuzzMedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
